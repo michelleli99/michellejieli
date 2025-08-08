@@ -1,5 +1,5 @@
 ## ✨ Hi, I'm Michelle! 👋
-👩‍💻 I'm a machine learning scientist solving problems in healthcare 🎓 I obtained my MEng in biomedical data science from Duke and BS in bioengineering + EECS from Berkeley 🐻 <br>
+👩‍💻 I'm a machine learning scientist 🎓 I obtained my MEng in biomedical data science from Duke and BS in bioengineering + EECS from Berkeley 🐻 <br>
 🌱 I’m currently learning about large language models and responsible AI<br>
 📫 How to reach me: michelleli1999@gmail.com<br>
 😄 Pronouns: she/her<br>
